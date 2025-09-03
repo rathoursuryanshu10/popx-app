@@ -29,7 +29,6 @@ function App() {
         <div className="min-h-screen bg-gray-200 flex items-center justify-center font-sans">
             <div className="w-full max-w-sm h-[85vh] max-h-[900px] bg-white shadow-2xl rounded-3xl overflow-hidden relative">
                 <div className="w-full h-full overflow-y-auto">
-                    <h1>Hello</h1>
                     {renderPage()}
                 </div>
             </div>
